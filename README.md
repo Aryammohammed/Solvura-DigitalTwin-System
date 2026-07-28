@@ -161,4 +161,4 @@ images
 
 ## 📬 Contact
 **Aryam Al‑Manjumi**  
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/aryam-almanjumi-896a89353/)) | [Email](aryam.almanjumi@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/aryam-almanjumi-896a89353/]) | [Email]([aryam.almanjumi@gmail.com])
