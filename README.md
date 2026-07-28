@@ -137,8 +137,8 @@ I contributed to multiple core components of **Solvura**:
 ---
 
 ## 📂 Repository Structure
-README.md
-images
+-README.md
+-images
 ---
 
 ## 🔐 Confidentiality Notice
