@@ -1,5 +1,10 @@
 # Solvura-DigitalTwin-System
 Solvura is an AI‑enhanced Digital Twin system that integrates IoT sensing, 3D visualization, and real‑time cloud synchronization using smart artificial palm trees. The platform provides predictive environmental insights, energy analytics, and interactive 3D dashboards to support sustainable smart‑city operations.
+
+<p align="center">
+  <img src="logo.png" alt="Solvura Logo" width="180">
+</p>
+
 # 🌴 Solvura – Artificial Palm Digital Twin System  
 ### **AI‑Enhanced Smart City Operations | 2025–2026**
 
