@@ -5,6 +5,10 @@ Solvura is an AI‑enhanced Digital Twin system that integrates IoT sensing, 3D 
   <img src="logo.png" alt="Solvura Logo" width="180">
 </p>
 
+## 🌐 Official Website
+🔗 **[Solvura.org](https://solvura.org)**
+
+
 # 🌴 Solvura – Artificial Palm Digital Twin System  
 ### **AI‑Enhanced Smart City Operations | 2025–2026**
 
